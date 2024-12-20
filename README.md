@@ -35,3 +35,5 @@ lib/
 │           └── stream_command.dart
 └── main.dart
 ```
+
+![image](https://github.com/user-attachments/assets/e65807b8-3fb0-420f-b820-ed8536e2aa08)
